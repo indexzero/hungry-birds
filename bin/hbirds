@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var hbirds = require('../lib');
+
