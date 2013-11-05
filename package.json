@@ -1,0 +1,25 @@
+{
+  "name": "hungry-birds",
+  "version": "0.0.0",
+  "description": "CLI tool for dumping various twitter API results to JSON file(s).",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Sorry! No tests.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indexzero/hungry-birds"
+  },
+  "dependencies": {
+    "twitter": "~0.2.4",
+    "async": "~0.2.9",
+    "optimist": "~0.6.0"
+  },
+  "keywords": [
+    "twitter",
+    "slurp",
+    "json"
+  ],
+  "author": "Charlie Robbins <charlie@nodejitsu.com>",
+  "license": "MIT"
+}
